@@ -1,5 +1,5 @@
 <h3 align="center">
-  <img src="https://github.com/idom-medical/.github/blob/main/public/logo_transparent.png?raw=true" width="240" alt="IDOM Medical Logo"/><br/>
+  <img src="https://github.com/idom-medical/.github/blob/main/public/logo_transparent.png?raw=true" width="150" alt="IDOM Medical Logo"/><br/>
   <br/>
   <b>IDOM Medical</b>
 </h3>
