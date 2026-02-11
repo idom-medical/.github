@@ -5,14 +5,17 @@
 </h3>
 
 <p align="center">
-  <b>Strategic Medical Staffing & Clinical Workforce Solutions</b><br/>
+  Strategic Medical Staffing & Clinical Workforce Solutions
+</p>
+
+<p align="center">
   <i>Physician-Led. Institutional Grade. Precision Focused.</i>
 </p>
 
 
 ## About Us
 
-**IDOM Medical** (_Infectious Disease & Occupational Medicine_) is a premier clinical staffing partner specializing in the deployment of elite medical talent. Unlike traditional agencies, we are physician-led, ensuring that every placement is grounded in clinical integrity and organizational resilience.
+IDOM Medical (_Infectious Disease & Occupational Medicine_) is a premier clinical staffing partner specializing in the deployment of elite medical talent. Unlike traditional agencies, we are physician-led, ensuring that every placement is grounded in clinical integrity and organizational resilience.
 
 ## Our Specializations
 
