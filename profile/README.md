@@ -1,7 +1,7 @@
 <h3 align="center">
   <img src="https://github.com/idom-medical/.github/blob/main/public/logo_transparent.png?raw=true" width="240" alt="IDOM Medical Logo"/><br/>
   <br/>
-  <b>IDOM MEDICAL</b>
+  <b>IDOM Medical</b>
 </h3>
 
 <p align="center">
@@ -9,16 +9,10 @@
   <i>Physician-Led. Institutional Grade. Precision Focused.</i>
 </p>
 
-<p align="center">
-  <a href="https://idomedicine.com">Website</a> • 
-  <a href="mailto:contact@idomedicine.com">Inquiries</a>
-</p>
 
----
+## About Us
 
-### Precision Staffing for High-Stakes Healthcare
-
-**IDOM Medical** (Infectious Disease & Occupational Medicine) is a premier clinical staffing partner specializing in the deployment of elite medical talent. Unlike traditional agencies, we are physician-led, ensuring that every placement is grounded in clinical integrity and organizational resilience.
+**IDOM Medical** (_Infectious Disease & Occupational Medicine_) is a premier clinical staffing partner specializing in the deployment of elite medical talent. Unlike traditional agencies, we are physician-led, ensuring that every placement is grounded in clinical integrity and organizational resilience.
 
 ## Our Specializations
 
@@ -35,12 +29,9 @@ This GitHub organization serves as the technical backbone for our staffing opera
 
 ## Partner With Us
 
-We manage complex, high-ticket staffing requirements where there is zero margin for error. 
+We manage complex staffing requirements with a focus on clinical integrity and organizational resilience.
 
-**Web:** [idomedicine.com](https://idomedicine.com)  
-**Email:** [contact@idomedicine.com](mailto:contact@idomedicine.com)
-
----
 <p align="center">
-  <small>© 2026 IDOM Medical Group. All rights reserved.</small>
+  <a href="https://idomedicine.com">Website</a> • 
+  <a href="mailto:contact@idomedicine.com">Inquiries</a>
 </p>
